@@ -9,10 +9,9 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-  - [Author](#author)
+  - [Author Links](#author-links)
   - [Reminder](#reminder)
 
 ## Overview
@@ -36,10 +35,8 @@ Users should be able to:
 
 ![Project screenshot](design/desktop-preview.jpg)
 
-### Links
 
-- Solution URL: [https://github.com/JohnMwendwa/age-calculator](https://github.com/JohnMwendwa/age-calculator)
-- Live Site URL: [https://johnmwendwa.github.io/age-calculator](https://johnmwendwa.github.io/age-calculator/)
+
 
 ## My process
 
@@ -52,11 +49,11 @@ Users should be able to:
 - Mobile-first workflow
 - JavaScript
 
-## Author
+## Author Links
 
 - Fullstack Developer [@moufidagbannonde](https://www.github.com/moufidagbannonde)
-- *(https://skype.fr/moufidagbannonde)*
+- *https://skype.fr/moufidagbannonde*
 
 ## Reminder
-
-ALWAYS spread love ❤️ wherever you go.Let's strive to make the world a better place right from our families to our small communities and the world will eventually catch on.
+ 
+ 
