@@ -4,13 +4,16 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Frontend Mentor - Age calculator app solution](#frontend-mentor---age-calculator-app-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+  - [Author](#author)
+  - [Reminder](#reminder)
 
 ## Overview
 
@@ -51,8 +54,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [John Mwendwa](https://johnmwendwa.vercel.app/)
-- Frontend Mentor - [@JohnMwendwa](https://www.frontendmentor.io/profile/JohnMwendwa)
+- Fullstack Developer [@moufidagbannonde](https://www.github.com/moufidagbannonde)
+- *(https://skype.fr/moufidagbannonde)*
 
 ## Reminder
 
