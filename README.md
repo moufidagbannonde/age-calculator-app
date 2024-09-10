@@ -52,8 +52,9 @@ Users should be able to:
 ## Author Links
 
 - Fullstack Developer [@moufidagbannonde](https://www.github.com/moufidagbannonde)
-- *https://skype.fr/moufidagbannonde*
+- *https://join.skype.com/invite/CBUjtRObGYXs*
+
 
 ## Reminder
- 
- 
+
+
